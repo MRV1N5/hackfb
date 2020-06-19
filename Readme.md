@@ -1,5 +1,5 @@
 # command
-Bypass Login Anti Cp 99%
+BYPASS LOGIN ANTI CP SAFE 99%
 
 $ pkg update && pkg upgrade
 
